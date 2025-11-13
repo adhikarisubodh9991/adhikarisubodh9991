@@ -6,9 +6,6 @@
 
 ### 🧠 About Me  
 
-<table style="border:none;">
-<tr>
-<td style="border:none; padding:0;">
 
 - 🔐 Passionate about **Cybersecurity** — love exploring vulnerabilities.  
 - 💡 Skilled in **Web Security** and **Ethical Hacking**.  
@@ -18,14 +15,9 @@
 - 🌱 Currently diving deeper into **Web Application Security** and **Penetration Testing**.  
 - ⚡ Fun fact: I can write with **both hands**.
 
-</td>
-<td style="border:none; padding:0; vertical-align:top;">
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="250px"/>
 
-</td>
-</tr>
-</table>
 
 ---
 
